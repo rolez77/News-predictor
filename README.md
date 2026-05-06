@@ -1,5 +1,7 @@
 ﻿# News Predictor
 Website: https://mynewspredictor.streamlit.app/
+
+
 A machine learning web app that detects whether a news article is real or fake using Logistic Regression and TF-IDF vectorization.
 
 ## How It Works
